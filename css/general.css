@@ -90,7 +90,7 @@ body {
 }
 
 /* .grid:last-child {
-  margin-bottom: 0;
+  margin-bottom: 0;  i dont uderstand
 } */
 
 .grid:not(:last-child) {
