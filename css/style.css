@@ -23,7 +23,7 @@
   list-style: none;
   display: flex;
   align-items: center;
-  gap: 3.2rem;
+  gap: 4.8rem;
 }
 
 .main-nav-link:link,
@@ -300,7 +300,7 @@
   background-color: #fdf2e9;
   display: grid;
   grid-template-columns: 55fr 45fr;
-  /* align-items: center; */
+  align-items: center;
 }
 
 .testimonials-container {
