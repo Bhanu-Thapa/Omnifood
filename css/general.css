@@ -67,6 +67,9 @@ html {
   /* Percentage of user's browser front-size setting */
   font-size: 62.5%;
   overflow-x: hidden;
+
+  /* Does not work on safari */
+  /* scroll-behavior: smooth; */
 }
 
 body {
@@ -170,6 +173,7 @@ body {
   margin-bottom: 1.6rem;
   letter-spacing: 0.75px;
 }
+
 .btn,
 .btn:link,
 .btn:visited {
